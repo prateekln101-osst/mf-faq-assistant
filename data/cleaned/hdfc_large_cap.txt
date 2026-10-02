@@ -1,0 +1,107 @@
+id: hdfc_large_cap
+url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+fetched_date: 2026-10-02
+status: ok
+warning: used saved HTML because the live fetch failed (HTTP 403)
+
+## About HDFC Large Cap Fund
+
+An open ended equity scheme predominantly investing in large cap stocks.
+This is a simple and performing scheme which is eligible for distribution by new cadre of distributors.
+The Scheme aims to provide long-term capital appreciation. It will maintain a minimum exposure of 80% to Large Cap stocks, as defined by SEBI, which currently are the 100 largest companies in India in terms of full market capitalization. Generally, large cap companies are well established businesses that are in operation for a longer period of time and are well positioned to absorb business pressures across various market cycles. Due to their size, they also benefit from economies of scale.
+The Scheme will remain diversified across key sectors and economic variables.
+DIRECT: REGULAR
+
+## HDFC Large Cap Fund
+
+Equity
+Returns since inception: 13.18%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+1.04
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 1,151.92
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹39,933.37 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 100 (Total Ret...
+NIFTY 100 (Total Return Index)
+
+## Benchmark Performance
+
+1Y
+3Y
+5Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+13.18%: 12.59%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+13.18%: 11.97%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+13.18%: 54,307.00
+Scheme Returns (%): Benchmark (Rs.)#
+13.18%: 50,576.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+13.18%: 46,927.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+## Fund Managers
+
+Mr. Rahul Baijal Senior Member Investment Team (Equity): OVERSEAS Mr. Dhruv Muchhal Equity Analyst and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+## Downloads
+
+HDFC Large Cap Fund
+Product Labelling
+
+## Product Labelling
+
+Benchmark Riskometer
+
+## Product Suitability
+
+This product is suitable for investors who are seeking~ • to generate long-term capital appreciation/income • investment predominantly in Large-Cap companies ~Investors should consult their financial advisers if in doubt about whether the product is suitable for them
+
+## FAQs
+
+Who should consider investing in the HDFC Large Cap Fund? This product is suitable for investors who are seeking~ To generate long-term capital appreciation / income Investment predominantly in Large-cap companies ~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+## Who should consider investing in the HDFC Large Cap Fund?
+
+This product is suitable for investors who are seeking~
+~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+How to Invest in HDFC Large Cap Fund? Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include: AMC / RTA’s branches i.e. Investor Services Centres* HDFC MF website and App/ RTA website for Investors to transact MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) Authorized Points of Service of MF Utilities India Private Limited (MFUI) Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC MF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II. Please refer Scheme Documents above for more details
+
+## How to Invest in HDFC Large Cap Fund?
+
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.
+The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:
+* Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II. Please refer Scheme Documents above for more details
+INVEST NOW
+
+## Who should consider investing in the HDFC Large Cap Fund?
+
+This product is suitable for investors who are seeking~To generate long-term capital appreciation / incomeInvestment predominantly in Large-cap companies ~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+## How to Invest in HDFC Large Cap Fund?
+
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:AMC / RTA’s branches i.e. Investor Services Centres*HDFC MF website and App/ RTA website for Investors to transactMFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s)Authorized Points of Service of MF Utilities India Private Limited (MFUI)Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMCMF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II.Please refer Scheme Documents above for more details

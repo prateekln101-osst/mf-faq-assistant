@@ -1,0 +1,11 @@
+sentence-transformers
+chromadb
+groq
+python-dotenv
+requests
+beautifulsoup4
+lxml
+pypdf
+streamlit
+pandas
+pytest

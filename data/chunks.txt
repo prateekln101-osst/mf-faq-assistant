@@ -1,0 +1,3160 @@
+--------------------------------------------------------------------------------
+chunk_id: a3ce0c5763677ddf8045bcdcb1a7f77affd075cbb88549504593cc01da7412d1
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: about_hdfc_balanced_advantage_fund
+heading: About HDFC Balanced Advantage Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC Balanced Advantage Fund (Direct Plan) | About HDFC Balanced Advantage Fund:
+An open ended Balanced Advantage Fund.
+This Fund aims to provide long term capital appreciation/income from a mix of equity and debt investments.
+Different asset classes exhibit different risk-return profile and relatively low correlation to each other as compared to investments within the same asset class. The fund manager will determine asset allocation between equity and debt depending on prevailing market and economic conditions.
+The debt-equity mix at any point of time will be a function of interest rates, equity valuations, medium to long term outlook of the asset classes and risk management, etc.
+DIRECT: REGULAR
+
+--------------------------------------------------------------------------------
+chunk_id: 7ba1694926c751084a3ea3be97041b39611437b2737e6e3063c504d6e4ba364a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: hdfc_balanced_advantage_fund
+heading: HDFC Balanced Advantage Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC Balanced Advantage Fund (Direct Plan) | HDFC Balanced Advantage Fund:
+Hybrid
+Returns since inception: 14.57%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.78
+Lock in
+
+--------------------------------------------------------------------------------
+chunk_id: 10428147cd68655b9b6f86da47f637fd8209327c8717f41008b0ba29e6d019d5
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: hdfc_balanced_advantage_fund
+heading: HDFC Balanced Advantage Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC Balanced Advantage Fund (Direct Plan) | HDFC Balanced Advantage Fund:
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.78
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 546.11
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹107,295.79 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 50 Hybrid Comp...
+NIFTY 50 Hybrid Composite Debt 50:50 Index
+
+--------------------------------------------------------------------------------
+chunk_id: 6398173c2cf594c023efc7368a69d21cb8919dd35c0dd9448e7f1311ca5f9976
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: benchmark_performance
+heading: Benchmark Performance
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC Balanced Advantage Fund (Direct Plan) | Benchmark Performance:
+1Y
+3Y
+5Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+14.57%: 10.08%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+14.57%: 12.13%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+14.57%: 64,208.00
+Scheme Returns (%): Benchmark (Rs.)#
+14.57%: 37,161.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+14.57%: 47,811.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+--------------------------------------------------------------------------------
+chunk_id: 0c30b5a7705c48f03a0da2105ffc74d309b23a4cbb3fa330cf6092fb90700169
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: mr_ihab_dalwai
+heading: Mr. Ihab Dalwai
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC Balanced Advantage Fund (Direct Plan) | Mr. Ihab Dalwai:
+Senior Fund Manager - Equities
+
+--------------------------------------------------------------------------------
+chunk_id: 6e145eaa8a980df1279f2f64bb692004ad0c2b6fb0463d000054a9584c46dec3
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: mr_anil_bamboli
+heading: Mr. Anil Bamboli
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC Balanced Advantage Fund (Direct Plan) | Mr. Anil Bamboli:
+Head – Fixed Income
+OVERSEAS: Senior Fund Manager - Equities and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+--------------------------------------------------------------------------------
+chunk_id: 7aed1415952a7bc4d22028049dab9ad6bca2a503b51a6e1c5bc8e9b9266537f5
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: downloads
+heading: Downloads
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC Balanced Advantage Fund (Direct Plan) | Downloads:
+HDFC Balanced Advantage Fund
+Product Labelling
+
+--------------------------------------------------------------------------------
+chunk_id: 2e908eadfa7c54c222a3dca8e02520a2c054f24e3ea4627589a40bb07241e5d7
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: product_labelling
+heading: Product Labelling
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC Balanced Advantage Fund (Direct Plan) | Product Labelling:
+Benchmark Riskometer
+
+--------------------------------------------------------------------------------
+chunk_id: 7a876eec642772a9f113a9f9cdf35bf62eddb6a46d2711815b12fca048d22356
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: product_suitability
+heading: Product Suitability
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC Balanced Advantage Fund (Direct Plan) | Product Suitability:
+This product is suitable for investors who are seeking~
+to generate long-term capital appreciation/income
+investments in a mix of equity and debt instruments
+~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+
+--------------------------------------------------------------------------------
+chunk_id: 32f7ebd090fc914afcd0e6362ba7300d83de97506aca47eb66f14c4805eee8eb
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: faqs
+heading: FAQs
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC Balanced Advantage Fund (Direct Plan) | FAQs:
+Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ? Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: 35a7a7e81b34bcd47d2ca73bde5aada8c8ee2e58d0fc799eb9871a2ec861ebba
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: can_i_invest_in_sip_and_lump_sum_of_hdfc_balanced_advantage_fund
+heading: Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC Balanced Advantage Fund (Direct Plan) | Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?:
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: c8f9cbc850da49ebc29e6ee22951c3c7ec42a5fbef60ee7f40147b4083d277a3
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: can_i_invest_in_sip_and_lump_sum_of_hdfc_balanced_advantage_fund
+heading: Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC Balanced Advantage Fund (Direct Plan) | Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?:
+How to Invest in HDFC Balanced Advantage Fund? Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include: AMC / RTA’s branches i.e. Investor Services Centres* HDFC MF website and App/ RTA website for Investors to transact MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) Authorized Points of Service of MF Utilities India Private Limited (MFUI) Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC MF Central *Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 40644f5749bacb071a9ac16a10d30386fee54fe9e068a02c3f9eea79377e8892
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_invest_in_hdfc_balanced_advantage_fund
+heading: How to Invest in HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Invest in HDFC Balanced Advantage Fund?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:
+*Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 2cfae03831618f698999d42bb4e49ba97f27202c50b16a0376004fe2b2dad72f
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_invest_in_hdfc_balanced_advantage_fund
+heading: How to Invest in HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Invest in HDFC Balanced Advantage Fund?:
+*Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: de5f6ecf0edbb1d058de44940033564f7f3a0b0aafee0cbc7a4a399240a4cb45
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_invest_in_hdfc_balanced_advantage_fund
+heading: How to Invest in HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Invest in HDFC Balanced Advantage Fund?:
+How to Redeem HDFC Balanced Advantage Fund? Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable. Transactions through online facilities / electronic modes: The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+
+--------------------------------------------------------------------------------
+chunk_id: 19392f582cfdf85a0249fc54e25ed3bec880ad03d9e3c5da4be9c45eb5f012cf
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_redeem_hdfc_balanced_advantage_fund
+heading: How to Redeem HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Redeem HDFC Balanced Advantage Fund?:
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.
+Transactions through online facilities / electronic modes:
+The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+INVEST NOW
+
+--------------------------------------------------------------------------------
+chunk_id: 3d0722eee93842b855d323e0a7839814dfabb3f902a040ea28d9ad82cb559d0f
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: can_i_invest_in_sip_and_lump_sum_of_hdfc_balanced_advantage_fund
+heading: Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 16
+
+HDFC Balanced Advantage Fund (Direct Plan) | Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?:
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: bc15a5edcf397efd2edb86570eaf254e5a63e459069acdca5ae9339d88ca69df
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_invest_in_hdfc_balanced_advantage_fund
+heading: How to Invest in HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 17
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Invest in HDFC Balanced Advantage Fund?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:AMC / RTA’s branches i.e. Investor Services Centres*HDFC MF website and App/ RTA website for Investors to transactMFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s)Authorized Points of Service of MF Utilities India Private Limited (MFUI)Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMCMF Central *Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 4dde6f0b19a2e2c703976b37467fea916dd46913a5eeb882f395b207495d99d6
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+source_title: About HDFC Balanced Advantage Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Balanced Advantage Fund (Direct Plan)
+scheme_category: balanced_advantage
+section: how_to_redeem_hdfc_balanced_advantage_fund
+heading: How to Redeem HDFC Balanced Advantage Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 18
+
+HDFC Balanced Advantage Fund (Direct Plan) | How to Redeem HDFC Balanced Advantage Fund?:
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices.For Redemption (including switch-out) applications• In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable.• In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.Transactions through online facilities / electronic modes:The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA.The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+
+--------------------------------------------------------------------------------
+chunk_id: f38b153d7c4766b9795c36f45ee2fe7e1fa96f8fb8c86c1ed02fac6f36f8e2d8
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: how_to_get_a_capital_gain_statement_for_mutual_fund_schemes_in_india
+heading: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC Mutual Fund | How to Get a Capital Gain Statement for Mutual Fund schemes in India:
+Last Updated On: 3 Jul 2026 | Created On: 11 Jul 2025
+5 min read
+
+--------------------------------------------------------------------------------
+chunk_id: d9fbd5ec767ad18b4e7a85278d662b6f15d4c1a46eedfa8462e035e44082a99b
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: introduction
+heading: Introduction
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC Mutual Fund | Introduction:
+When filing income tax returns in India, one of the key documents investor needs is the Capital Gain Statement from their mutual fund schemes investments. This statement provides a summary of all realized capital gains and losses during a financial year. It plays a vital role in accurate tax reporting and compliance. This blog explains what a capital gain statement is, how it works, and the step-by-step process to access it.
+
+--------------------------------------------------------------------------------
+chunk_id: c6d6cb387d5c330cec7233c75ebc59392612599296b20845b79a0d643748e28a
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_is_a_capital_gain_statement
+heading: What is a Capital Gain Statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC Mutual Fund | What is a Capital Gain Statement?:
+A Capital Gain Statement is a consolidated report that outlines the gains or losses made from mutual fund scheme specific redemptions during a specific period. It categorizes:
+Short-Term Capital Gains (STCG): Profits from selling mutual fund units within 12 months (for equity funds).
+Long-Term Capital Gains (LTCG): Profits from selling after 12 months (for equity funds), often subject to tax exemptions up to ₹1 lakh annually.
+Applicable taxes, indexation benefits (for debt funds), and transaction details.
+
+--------------------------------------------------------------------------------
+chunk_id: 915a50dcbc111e0dbeda5d3c0e5e9d41ab79a0885420e6570cc999825807f393
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: why_is_it_important
+heading: Why is it Important?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC Mutual Fund | Why is it Important?:
+Required for income tax return (ITR) filing
+Helps in computing tax liability
+Ensures compliance with Indian tax laws
+Useful for financial planning and record keeping
+
+--------------------------------------------------------------------------------
+chunk_id: 31dab6aab58b59e5e9889ece3037b83d183f6fdd79658a01debcac1fc445dd93
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: how_to_get_capital_gain_statement_for_mutual_fund_schemes
+heading: How to Get Capital Gain Statement for Mutual Fund schemes
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC Mutual Fund | How to Get Capital Gain Statement for Mutual Fund schemes:
+There are multiple ways to obtain your capital gain statement in India:
+
+--------------------------------------------------------------------------------
+chunk_id: 160615b55518dbbc4c75ac88fee429734c94397b9a084453fceebaed9463b6ef
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: 1_from_registrar_transfer_agents_rtas
+heading: 1. From Registrar & Transfer Agents (RTAs)
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC Mutual Fund | 1. From Registrar & Transfer Agents (RTAs):
+Visit CAMS ( https://www.camsonline.com ) or KFintech ( https://www.kfintech.com )
+Use your PAN and email ID registered with your investments
+Request a consolidated capital gains report (choose financial year, email delivery) When this email arrives, taxpayers have to enter the password to view their capital gains statement.
+
+--------------------------------------------------------------------------------
+chunk_id: 188e34c3c2c69d4f8127db85ccbcf68aa126a0c484c0f2d2a8f3880616bc06d6
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: 2_from_mutual_fund_distributor_platforms
+heading: 2. From Mutual Fund Distributor Platforms
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC Mutual Fund | 2. From Mutual Fund Distributor Platforms:
+Log in to investment platforms
+Navigate to the tax or reports section
+Download the capital gain statement for the required financial year
+
+--------------------------------------------------------------------------------
+chunk_id: 1e8ea947ac3fcb69f8748eaff4007ab4748196745e03681b2d06164a182c22cd
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: 3_from_amc_asset_management_company_websites
+heading: 3. From AMC (Asset Management Company) Websites
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC Mutual Fund | 3. From AMC (Asset Management Company) Websites:
+Visit the website of each fund house you've invested in
+Use the PAN/email to generate your individual capital gain statement
+Some AMCs also allow consolidated download across their schemes
+
+--------------------------------------------------------------------------------
+chunk_id: 709a7fc686800a4961d94e81b0c67b369b1dca402273d130e4586f466e8ff5f7
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: 4_via_cas_consolidated_account_statement
+heading: 4. Via CAS (Consolidated Account Statement)
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC Mutual Fund | 4. Via CAS (Consolidated Account Statement):
+CAS includes capital gains across all mutual fund scheme holdings linked to your PAN
+Request via CAMS or NSDL ( https://www.nsdlsra.com )
+Choose the "capital gains" format when generating CAS
+
+--------------------------------------------------------------------------------
+chunk_id: 3747c6f1aa208b20d9505c98f5c65dbe17eac53166bea152e03d6b35e3fec163
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: points_to_remember
+heading: Points to Remember
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC Mutual Fund | Points to Remember:
+Ensure your email and PAN are correctly registered with all AMCs
+Capital gain statements are generally available after financial year-end (March)
+You can generate them for specific time frames (e.g., FY 2023-24)
+Statements free of cost from most platforms and RTAs
+
+--------------------------------------------------------------------------------
+chunk_id: 621eb8101e6c31aec2e6709d326d47d98195bfacc3eeebd9ca411839e2b7368b
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: conclusion
+heading: Conclusion
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC Mutual Fund | Conclusion:
+Accessing your mutual fund schemes capital gain statement is a simple yet crucial step for tax filing and financial clarity. Whether through RTAs like CAMS/KFintech, online investment platforms, or AMC websites, investors can easily track their gains and meet tax obligations accurately.
+Additional links:
+What is a Mutual Fund? - Beginner's Guide to Investing
+AMFI - Introduction to Mutual Funds
+Know everything about SIP
+How to Get Capital Gain Statement for Mutual Funds?
+Let’s Learn How to Invest in Securities Market
+
+--------------------------------------------------------------------------------
+chunk_id: af149444f11cc4c8c90c8667402a801166e24c86ac2c9570c846ff959f18af78
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_is_a_capital_gain_statement_in_mutual_fund_schemes
+heading: What is a capital gain statement in mutual fund schemes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC Mutual Fund | What is a capital gain statement in mutual fund schemes?:
+A capital gain statement provides a detailed report of the profits or losses you have made from redeeming mutual fund units. It includes both short-term and long-term gains, transaction dates, and applicable tax rates.
+
+--------------------------------------------------------------------------------
+chunk_id: 190e1ba82d38545a396759fcb00a1fb2942f8b17ee4da69f32788503e533e50a
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: why_do_i_need_a_capital_gain_statement
+heading: Why do I need a capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC Mutual Fund | Why do I need a capital gain statement?:
+It is essential for calculating your tax liability on investment in mutual fund schemes and must be used while filing your income tax return in India.
+
+--------------------------------------------------------------------------------
+chunk_id: 73072249b2d91989921f27ee49ebd0773f525d5ca6e9753dffbe32e4fe3fd58f
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: how_can_i_get_a_capital_gain_statement_online
+heading: How can I get a capital gain statement online?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC Mutual Fund | How can I get a capital gain statement online?:
+You can visit websites of CAMS, KFintech, or other mutual fund investment platform to download the statement using your PAN and registered email ID.
+
+--------------------------------------------------------------------------------
+chunk_id: b2d1834ecc5330f0d4eaa098edd7cce8a62009ad7856a8b6ad05200feabd878b
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: is_there_any_charge_to_get_the_capital_gain_statement
+heading: Is there any charge to get the capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC Mutual Fund | Is there any charge to get the capital gain statement?:
+No, most RTAs and platforms offer the capital gain statement free of cost.
+
+--------------------------------------------------------------------------------
+chunk_id: b4651d57fd8de72d2cece6eca95dd3cf46c77a340583f655c15637a35aae5930
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: can_i_get_a_consolidated_statement_for_all_my_mutual_fund_schemes
+heading: Can I get a consolidated statement for all my mutual fund schemes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC Mutual Fund | Can I get a consolidated statement for all my mutual fund schemes?:
+Yes, platforms like CAMS and KFintech allow you to generate a consolidated capital gain statement for all investment in mutual fund schemes linked to your PAN.
+
+--------------------------------------------------------------------------------
+chunk_id: db7d7c062e6727d57fdfb5a8623a7b1fdcf910b6f0173000b5ecedd20658f9f1
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_period_does_the_capital_gain_statement_cover
+heading: What period does the capital gain statement cover?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 16
+
+HDFC Mutual Fund | What period does the capital gain statement cover?:
+You can generate it for any selected time frame, usually for a full financial year (April–March).
+
+--------------------------------------------------------------------------------
+chunk_id: a085ca4a3d349d9891957d058426dc02edbf6fa7bdfe5b956297a0d100f2ef3e
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: does_the_statement_include_unrealized_gains
+heading: Does the statement include unrealized gains?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 17
+
+HDFC Mutual Fund | Does the statement include unrealized gains?:
+No, it only includes realized gains—i.e., gains from mutual fund units that have been redeemed during the selected period.
+
+--------------------------------------------------------------------------------
+chunk_id: b927e6653597ff0f94063fa4262f7bcb62798fc8efa0fb07010179862c2cffb0
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_if_i_invested_through_multiple_platforms
+heading: What if I invested through multiple platforms?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 18
+
+HDFC Mutual Fund | What if I invested through multiple platforms?:
+You can still get a consolidated statement from CAMS or NSDL that includes all mutual fund schemes transactions associated with your PAN.
+
+--------------------------------------------------------------------------------
+chunk_id: 50376e9a2951cee2bc8023187083046b4aa94170ed67b2d29b24464481e6533a
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: can_i_use_cas_for_tax_filing_purposes
+heading: Can I use CAS for tax filing purposes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 19
+
+HDFC Mutual Fund | Can I use CAS for tax filing purposes?:
+Yes, CAS in capital gains format is accepted for tax filing. It provides a unified view of all mutual fund schemes redemptions and gains.
+
+--------------------------------------------------------------------------------
+chunk_id: b445fb0e7c5fa4fe0404f5ef3b19a8ad1e68f77d8fb97b0c8c6abe05884b9237
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: when_should_i_download_the_capital_gain_statement
+heading: When should I download the capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 20
+
+HDFC Mutual Fund | When should I download the capital gain statement?:
+Ideally, after the end of the financial year (post-March), so you can use it during the ITR filing period (typically April–July).
+BACK TO TOP
+
+--------------------------------------------------------------------------------
+chunk_id: 9bae66c79d1e802eaad211ec6e375c570b21504f7be3682a7ce7854a5eb9125c
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: did_you_find_this_interesting
+heading: Did you find this interesting?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 21
+
+HDFC Mutual Fund | Did you find this interesting?:
+Your opinion matters - share your thoughts and help us improve.
+Yes: No
+
+--------------------------------------------------------------------------------
+chunk_id: 3d63100a530b0569690a2e22ff467e1075acbf5d920bf66c60255a08b32dcfaa
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 22
+
+HDFC Mutual Fund | Stay ahead with our insights:
+Recommended Posts
+Investing in Capital Protection Oriented Schemes
+How to Reduce Long Term Capital Gains Tax
+Long Term Capital Gain on Mutual Funds
+An Investor Education And Awareness Initiative
+
+--------------------------------------------------------------------------------
+chunk_id: d76488c99701d475fc2d59fdc659b53e68d6a313dab03d1105ddb149897eb3a6
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 23
+
+HDFC Mutual Fund | Stay ahead with our insights:
+Investing in Capital Protection Oriented Schemes
+How to Reduce Long Term Capital Gains Tax
+Long Term Capital Gain on Mutual Funds
+An Investor Education And Awareness Initiative
+
+--------------------------------------------------------------------------------
+chunk_id: b3c078aa96f8487cc714987fac03962b95bbe1832e8c777523a3dc02436b172c
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 24
+
+HDFC Mutual Fund | Stay ahead with our insights:
+How to Reduce Long Term Capital Gains Tax
+Long Term Capital Gain on Mutual Funds
+An Investor Education And Awareness Initiative
+
+--------------------------------------------------------------------------------
+chunk_id: 4be78baef3d4c7660b64f9bfc9eb9221bd04c5687a1948f5b80e55c502f9ff3b
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 25
+
+HDFC Mutual Fund | Stay ahead with our insights:
+Long Term Capital Gain on Mutual Funds
+An Investor Education And Awareness Initiative
+
+--------------------------------------------------------------------------------
+chunk_id: 360d56dc39ff05d45603ab5378ad9753540875642f9eca210e9acd6fcf1c277d
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 26
+
+HDFC Mutual Fund | Stay ahead with our insights:
+An Investor Education And Awareness Initiative
+
+--------------------------------------------------------------------------------
+chunk_id: 2ccd83e846e55d30bd2a43664e2c043df79f6b977c6cd6a81b814758ac4d2e56
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 27
+
+HDFC Mutual Fund | Stay ahead with our insights:
+Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https://scores.sebi.gov.in/scores-home/ . SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login .
+
+--------------------------------------------------------------------------------
+chunk_id: 628fd1038e5a9f7e29568eddc1c6dbbd2079221778f2418b8882d0058c20c75f
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: stay_ahead_with_our_insights
+heading: Stay ahead with our insights
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 28
+
+HDFC Mutual Fund | Stay ahead with our insights:
+The information is for general purposes only and not an investment advice. Readers should seek professional advice before taking any investment related decisions.
+MUTUAL FUND INVESTMENTS ARE SUBJECT TO MARKET RISKS, READ ALL SCHEME RELATED DOCUMENTS CAREFULLY
+
+--------------------------------------------------------------------------------
+chunk_id: 75e62cc150ea3ff505826d265905b85f3987b6491f1fa394071cedc8207fe82d
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_is_a_capital_gain_statement_in_mutual_fund_schemes
+heading: What is a capital gain statement in mutual fund schemes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 29
+
+HDFC Mutual Fund | What is a capital gain statement in mutual fund schemes?:
+A capital gain statement provides a detailed report of the profits or losses you have made from redeeming mutual fund units. It includes both short-term and long-term gains, transaction dates, and applicable tax rates.
+
+--------------------------------------------------------------------------------
+chunk_id: 353cdca0e45496aa5557e1db7ba11ec56b0e7498c638e8286c82f54bfec2b708
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: why_do_i_need_a_capital_gain_statement
+heading: Why do I need a capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 30
+
+HDFC Mutual Fund | Why do I need a capital gain statement?:
+It is essential for calculating your tax liability on investment in mutual fund schemes and must be used while filing your income tax return in India.
+
+--------------------------------------------------------------------------------
+chunk_id: 5f5cd59b8e8bae79c3bbbaec1f92529cac82784eada6005d6cfc669b7cadf7bf
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: how_can_i_get_a_capital_gain_statement_online
+heading: How can I get a capital gain statement online?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 31
+
+HDFC Mutual Fund | How can I get a capital gain statement online?:
+You can visit websites of CAMS, KFintech, or other mutual fund investment platform to download the statement using your PAN and registered email ID.
+
+--------------------------------------------------------------------------------
+chunk_id: 408dcc84e3af801ba4e82383984aa0942e782af8362dee249fc725049464dda4
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: is_there_any_charge_to_get_the_capital_gain_statement
+heading: Is there any charge to get the capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 32
+
+HDFC Mutual Fund | Is there any charge to get the capital gain statement?:
+No, most RTAs and platforms offer the capital gain statement free of cost.
+
+--------------------------------------------------------------------------------
+chunk_id: 43bbc6261ff73db543fd1fbeec394df9cc884b54abb20387794c2c5928996ccd
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: can_i_get_a_consolidated_statement_for_all_my_mutual_fund_schemes
+heading: Can I get a consolidated statement for all my mutual fund schemes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 33
+
+HDFC Mutual Fund | Can I get a consolidated statement for all my mutual fund schemes?:
+Yes, platforms like CAMS and KFintech allow you to generate a consolidated capital gain statement for all investment in mutual fund schemes linked to your PAN.
+
+--------------------------------------------------------------------------------
+chunk_id: f5cd53d8b69d93998e75027715f44a8e965d11debc218b492b55f5f409d35010
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_period_does_the_capital_gain_statement_cover
+heading: What period does the capital gain statement cover?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 34
+
+HDFC Mutual Fund | What period does the capital gain statement cover?:
+You can generate it for any selected time frame, usually for a full financial year (April–March).
+
+--------------------------------------------------------------------------------
+chunk_id: e43365f1035de2edc44d6c459d0295361d5c77c762526f0123db81c50847c49e
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: does_the_statement_include_unrealized_gains
+heading: Does the statement include unrealized gains?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 35
+
+HDFC Mutual Fund | Does the statement include unrealized gains?:
+No, it only includes realized gains—i.e., gains from mutual fund units that have been redeemed during the selected period.
+
+--------------------------------------------------------------------------------
+chunk_id: 387059b7407ad309243f067606f385fad02507e5d0489ea0b377ade2cd32f271
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: what_if_i_invested_through_multiple_platforms
+heading: What if I invested through multiple platforms?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 36
+
+HDFC Mutual Fund | What if I invested through multiple platforms?:
+You can still get a consolidated statement from CAMS or NSDL that includes all mutual fund schemes transactions associated with your PAN.
+
+--------------------------------------------------------------------------------
+chunk_id: bf9081459532888ff13eacbf26ddc4a687aefca4d5b3b18cb82bd3e3367cc5ee
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: can_i_use_cas_for_tax_filing_purposes
+heading: Can I use CAS for tax filing purposes?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 37
+
+HDFC Mutual Fund | Can I use CAS for tax filing purposes?:
+Yes, CAS in capital gains format is accepted for tax filing. It provides a unified view of all mutual fund schemes redemptions and gains.
+
+--------------------------------------------------------------------------------
+chunk_id: ce9ad0029eed7f8d56cfd83f62bebbf44d9bd130d0305ce2b1375dd4b01f978b
+source_url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+source_title: How to Get a Capital Gain Statement for Mutual Fund schemes in India
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Mutual Fund
+scheme_category: 
+section: when_should_i_download_the_capital_gain_statement
+heading: When should I download the capital gain statement?
+doc_type: guide
+fetched_date: 2026-10-02
+chunk_index: 38
+
+HDFC Mutual Fund | When should I download the capital gain statement?:
+Ideally, after the end of the financial year (post-March), so you can use it during the ITR filing period (typically April–July).
+
+--------------------------------------------------------------------------------
+chunk_id: 7bbb21d49e06c3be2a3d1f29af81ce84b78dfd6751f56b6932f0b7f08ab87570
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: about_hdfc_elss_tax_saver_fund
+heading: About HDFC ELSS - Tax Saver Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | About HDFC ELSS - Tax Saver Fund:
+An Open-ended Equity Linked Savings Scheme with a statutory lock in of 3 years and tax benefit.
+This is a simple and performing scheme which is eligible for distribution by new cadre of distributors.
+The scheme offers the dual benefit of tax saving and wealth creation. It comes with a lock-in period of three years and provides individuals/HUFs a deduction from gross total income for investments in Equity-Linked Savings Scheme upto ₹1.5 lakh under section 80C of the Income Tax Act 1961.
+The fund invests 80-100% of its portfolio in equity or equity related instruments.The equity strategy aims to provide long term capital appreciation from a reasonably diversified portfolio consisting of mid cap and large cap companies which:
+are likely to achive above average growth than the industry,
+enjoy distinct competetive advantages,
+have superior financial strenghts.
+DIRECT: REGULAR
+
+--------------------------------------------------------------------------------
+chunk_id: 512e1ad3d339bd14e950a506a6f208593d99a8d7e39247015f56cb46cde88198
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: hdfc_elss_tax_saver_fund
+heading: HDFC ELSS - Tax Saver Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | HDFC ELSS - Tax Saver Fund:
+Tax Saver
+Returns since inception: 14.19%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 500
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+1.21
+Lock in
+
+--------------------------------------------------------------------------------
+chunk_id: 6df38bcb254e129844a3558dab9b6787e3f8122fcc530e2be1d895aea1b7cb58
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: hdfc_elss_tax_saver_fund
+heading: HDFC ELSS - Tax Saver Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | HDFC ELSS - Tax Saver Fund:
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+1.21
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+3 years
+NAV (01/10/2026)
+₹ 1,405.49
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹15,991.78 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 500 Total Retu...
+NIFTY 500 Total Returns Index
+
+--------------------------------------------------------------------------------
+chunk_id: 52925150330d0eeef7b1f87a7b360f7d0427dbffeecd191d2c8765455556f2ac
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: benchmark_performance
+heading: Benchmark Performance
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | Benchmark Performance:
+1Y
+3Y
+5Y
+10Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+14.19%: 13.57%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+14.19%: 12.13%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+14.19%: 61,361.00
+Scheme Returns (%): Benchmark (Rs.)#
+14.19%: 56,958.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+14.19%: 47,811.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+--------------------------------------------------------------------------------
+chunk_id: 25d71fd1e484c2d76362bfd795a7787e0a5e3cc031e22b662caf83d941840840
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: fund_managers
+heading: Fund Managers
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | Fund Managers:
+Amar Kalkundrikar Fund Manager - Equities (Investments): OVERSEAS Mr. Dhruv Muchhal Equity Analyst and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+--------------------------------------------------------------------------------
+chunk_id: c3ccaebf8cff8655def1f738dd636ae7539dfea7566d3d5ef119dd9e57cb9963
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: downloads
+heading: Downloads
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | Downloads:
+HDFC ELSS - Tax Saver Fund
+Product Labelling
+
+--------------------------------------------------------------------------------
+chunk_id: 1225ffa921f525e94c45b8c23bfafc760b1c5d8abcf038faa3dfa387cbdc5ff5
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: product_labelling
+heading: Product Labelling
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | Product Labelling:
+Benchmark Riskometer
+
+--------------------------------------------------------------------------------
+chunk_id: a53be6642c80e8fd45fc0215594789bea53fd2bac7a7c8c2d28a1f761cf4903a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: product_suitability
+heading: Product Suitability
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | Product Suitability:
+This product is suitable for investors who are seeking~
+to generate long-term capital appreciation/income
+investment predominantly of equity and equity related instruments
+~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+
+--------------------------------------------------------------------------------
+chunk_id: fe1f120bf6481eaeff8453a7e0b74fd99b254b6931e197b781d9a90c9b274bcf
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: faqs
+heading: FAQs
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | FAQs:
+1. How to Invest in HDFC ELSS Tax Saver? Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include: 1. AMC / RTA’s branches i.e. Investor Services Centres* 2. HDFC MF website and App/ RTA website for Investors to transact 3. MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) 4. Authorized Points of Service of MF Utilities India Private Limited (MFUI) 5. Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC 6. MF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer offer documents for more details.
+
+--------------------------------------------------------------------------------
+chunk_id: dcc4349187dfba38ef49ef594ab778b03d9fd81f2300ce9e19ace098f67b731d
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 1_how_to_invest_in_hdfc_elss_tax_saver
+heading: 1. How to Invest in HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 1. How to Invest in HDFC ELSS Tax Saver?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include: 1. AMC / RTA’s branches i.e. Investor Services Centres* 2. HDFC MF website and App/ RTA website for Investors to transact 3. MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) 4. Authorized Points of Service of MF Utilities India Private Limited (MFUI) 5. Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC 6. MF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer offer documents for more details.
+
+--------------------------------------------------------------------------------
+chunk_id: 9e7da5acaa8975c393ca9fd0ef7ec0e8968d54c1b57dd6300c3966a34c1d3b6e
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 1_how_to_invest_in_hdfc_elss_tax_saver
+heading: 1. How to Invest in HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 1. How to Invest in HDFC ELSS Tax Saver?:
+2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver? Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹500. Any additional purchase must have a minimum amount of ₹500. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: 36f3f4ae69ff17d6cb6dd582adfa02c564bc1222a6ea32ed40230f3ff7bafcc0
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 2_can_i_invest_in_sip_and_lump_sum_of_the_hdfc_elss_tax_saver
+heading: 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?:
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹500. Any additional purchase must have a minimum amount of ₹500. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: 0fb8af8ad5998fe50613180c50e525aff342db2e471d66b7e5c1d572a544d9ee
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 2_can_i_invest_in_sip_and_lump_sum_of_the_hdfc_elss_tax_saver
+heading: 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?:
+3. How to Redeem HDFC ELSS Tax Saver? Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable. Transactions through online facilities / electronic modes: The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+
+--------------------------------------------------------------------------------
+chunk_id: c8b8a1358a7938ff284256df6847335d8d6c0e182e1abfe8a0a39c092ac56da3
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 3_how_to_redeem_hdfc_elss_tax_saver
+heading: 3. How to Redeem HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 3. How to Redeem HDFC ELSS Tax Saver?:
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.
+Transactions through online facilities / electronic modes:
+The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+INVEST NOW
+
+--------------------------------------------------------------------------------
+chunk_id: b4dc0d11ec8d2708836c537e24f545134f1c3825dd095b88ebd33bbe487d4511
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 1_how_to_invest_in_hdfc_elss_tax_saver
+heading: 1. How to Invest in HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 1. How to Invest in HDFC ELSS Tax Saver?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:1. AMC / RTA’s branches i.e. Investor Services Centres*2. HDFC MF website and App/ RTA website for Investors to transact3. MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s)4. Authorized Points of Service of MF Utilities India Private Limited (MFUI)5. Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC6. MF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.Please refer offer documents for more details.
+
+--------------------------------------------------------------------------------
+chunk_id: 7e98067d69c30a037c8dd303c03f818a3959ce82a786d4ed8d398ee5b3d4f210
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 2_can_i_invest_in_sip_and_lump_sum_of_the_hdfc_elss_tax_saver
+heading: 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 2. Can I invest in SIP and Lump Sum of the HDFC ELSS Tax Saver?:
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹500. Any additional purchase must have a minimum amount of ₹500. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+--------------------------------------------------------------------------------
+chunk_id: 4e3441f910bdbf591f08141d692a8d26c0439a1b3ecf5147e0c4f6d44ccf8a41
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct
+source_title: About HDFC ELSS - Tax Saver Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC ELSS Tax Saver Fund (Direct Plan)
+scheme_category: elss
+section: 3_how_to_redeem_hdfc_elss_tax_saver
+heading: 3. How to Redeem HDFC ELSS Tax Saver?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 16
+
+HDFC ELSS Tax Saver Fund (Direct Plan) | 3. How to Redeem HDFC ELSS Tax Saver?:
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices.For Redemption (including switch-out) applications• In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable.• In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.Transactions through online facilities / electronic modes:The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA.The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+
+--------------------------------------------------------------------------------
+chunk_id: a9095f53391f419bb79e444c2b3bd13b8a0f38e1cb079c4ea200c18c07307506
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: about_hdfc_flexi_cap_fund
+heading: About HDFC Flexi Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC Flexi Cap Fund (Direct Plan) | About HDFC Flexi Cap Fund:
+An open ended dynamic equity scheme investing across large cap, mid cap & small cap stocks
+30+ Years of Growth & Trust
+Since inception, HDFC Flexi Cap Fund has navigated multiple market cycle over more than 3 decades
+Flexi Cap Funds offer fund managers complete flexibility to allocate assets across large, mid, and small-cap stocks, based on market conditions. This adaptability makes HDFC Flexi Cap Fund attractive to investors seeking diversified exposure to the equity market.
+
+--------------------------------------------------------------------------------
+chunk_id: 043ab134b7a971b6d04d51422ed8470e2fb4e682457b621d45037dff6666a2fb
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_hdfc_flexi_cap_fund
+heading: What is HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC Flexi Cap Fund (Direct Plan) | What is HDFC Flexi Cap Fund?:
+Fund Description: HDFC Flexi Cap Fund is an open-ended equity mutual fund scheme that invests across large-cap, mid-cap, and small-cap companies.
+This allows the fund to combine:
+Stability from established market leaders
+Growth potential from mid-sized companies
+Emerging opportunities from smaller businesses
+helping create a balanced approach to long-term wealth creation.
+
+--------------------------------------------------------------------------------
+chunk_id: 7035adaa8f623003605f86d8adc477af93aad38237fc0b688d34da539142575d
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: who_can_consider_hdfc_flexi_cap_fund
+heading: Who can consider HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC Flexi Cap Fund (Direct Plan) | Who can consider HDFC Flexi Cap Fund?:
+This fund may suit investors who:
+Have a long-term investment horizon (5+ years)
+Want diversified equity exposure across market caps
+Are comfortable with short-term market volatility for long-term growth
+
+--------------------------------------------------------------------------------
+chunk_id: b28aaffa74f67121e824cfe799667bdcd8bd44cef22ed2a73c27cea0f24af15a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: how_to_start_investing
+heading: How to start investing
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC Flexi Cap Fund (Direct Plan) | How to start investing:
+Investors can start investing in HDFC Flexi Cap Fund through the following steps:
+Complete your KYC Keep PAN, Aadhaar and bank details ready.
+Visit HDFC Mutual Fund Website / App Go to the fund page and click Invest Now.
+Choose Investment Mode SIP – invest a fixed amount monthly Lump Sum – invest one time
+Select Plan & Option Direct or Regular Plan Growth or IDCW option
+Enter Amount & Payment Details Set SIP date or make payment online.
+Confirm & Start Investing Your investment will be processed and units will be allotted.
+DIRECT: REGULAR
+
+--------------------------------------------------------------------------------
+chunk_id: bed09ac78ab2b915e54e6d5377c36e0ab15d593ad757cc28614c8904857f7fc9
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: hdfc_flexi_cap_fund
+heading: HDFC Flexi Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC Flexi Cap Fund (Direct Plan) | HDFC Flexi Cap Fund:
+Equity
+Returns since inception: 16.17%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.77
+Lock in
+
+--------------------------------------------------------------------------------
+chunk_id: bb78ddcacb503cda47019200d55dd6e89a24368a79c94d53ce13ea282fcdac08
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: hdfc_flexi_cap_fund
+heading: HDFC Flexi Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC Flexi Cap Fund (Direct Plan) | HDFC Flexi Cap Fund:
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.77
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 2,150.08
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹113,606.47 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 500 Total Retu...
+NIFTY 500 Total Returns Index
+
+--------------------------------------------------------------------------------
+chunk_id: ea5c39114f214f7d6b87060b58d2719b271fd4e184269b8bf2c514b78ffa7f07
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: benchmark_performance
+heading: Benchmark Performance
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC Flexi Cap Fund (Direct Plan) | Benchmark Performance:
+1Y
+3Y
+5Y
+10Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+16.17%: 13.57%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+16.17%: 12.13%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+16.17%: 77,599.00
+Scheme Returns (%): Benchmark (Rs.)#
+16.17%: 56,958.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+16.17%: 47,811.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+--------------------------------------------------------------------------------
+chunk_id: a28b371d5b424ee7c5c71c5b369025417dabc462f379658008bfc2b07507f239
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: mr_amit_b_ganatra
+heading: Mr. Amit B Ganatra
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC Flexi Cap Fund (Direct Plan) | Mr. Amit B Ganatra:
+Senior Fund Manager - Equities
+OVERSEAS: Equity Analyst and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+--------------------------------------------------------------------------------
+chunk_id: 1ad610595e854320165ea56f8fbf37ceb407f5cbaf7ff5efc78824ab84af52e2
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: downloads
+heading: Downloads
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC Flexi Cap Fund (Direct Plan) | Downloads:
+HDFC Flexi Cap Fund
+Product Labelling
+
+--------------------------------------------------------------------------------
+chunk_id: 3197b07a6915dfffa4d43602c6a73441d638655f2d6d7f9a2be2a069d9c72740
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: product_labelling
+heading: Product Labelling
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC Flexi Cap Fund (Direct Plan) | Product Labelling:
+Benchmark Riskometer
+
+--------------------------------------------------------------------------------
+chunk_id: fd1c1da925e8ce5dda782f29751198e55c7096e64963e81e368d5f5bb2137015
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: product_suitability
+heading: Product Suitability
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC Flexi Cap Fund (Direct Plan) | Product Suitability:
+This product is suitable for investors who are seeking~ • To generate long-term capital appreciation / income • Investment predominantly in equity & equity related instruments ~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+
+--------------------------------------------------------------------------------
+chunk_id: 5ece98650b420bf5867a8969401c80dd0ddf328dd4a6020bf942bae6ab3ec426
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: faqs
+heading: FAQs
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC Flexi Cap Fund (Direct Plan) | FAQs:
+What is HDFC Flexi Cap Fund? HDFC Flexi Cap Fund is an open-ended equity mutual fund that invests across large-cap, mid-cap, and small-cap stocks, giving the fund manager flexibility to capture opportunities across market segments.
+
+--------------------------------------------------------------------------------
+chunk_id: 97429df455463d0e9cf3a2721e68f3b60ee872572e4cec8a8759772b962995b2
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_hdfc_flexi_cap_fund
+heading: What is HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC Flexi Cap Fund (Direct Plan) | What is HDFC Flexi Cap Fund?:
+HDFC Flexi Cap Fund is an open-ended equity mutual fund that invests across large-cap, mid-cap, and small-cap stocks, giving the fund manager flexibility to capture opportunities across market segments.
+How does a Flexi Cap Fund work? A flexi cap fund dynamically allocates investments across different market capitalizations based on market conditions, valuations, and growth opportunities.
+
+--------------------------------------------------------------------------------
+chunk_id: 12e1cc2ebeb4ab8bb694436b0cf77b2195e39994658744490eb871ca7e2520e2
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: how_does_a_flexi_cap_fund_work
+heading: How does a Flexi Cap Fund work?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC Flexi Cap Fund (Direct Plan) | How does a Flexi Cap Fund work?:
+A flexi cap fund dynamically allocates investments across different market capitalizations based on market conditions, valuations, and growth opportunities.
+What is the key advantage of a Flexi Cap Fund? The main advantage is flexibility — the fund manager can shift allocation between large, mid, and small caps to optimize risk-reward potential. Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 52aac061ad193f61e2189e0d0f95bf63034491cb2bbf9092132396f7959f909f
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_key_advantage_of_a_flexi_cap_fund
+heading: What is the key advantage of a Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the key advantage of a Flexi Cap Fund?:
+The main advantage is flexibility — the fund manager can shift allocation between large, mid, and small caps to optimize risk-reward potential. Please refer Scheme Documents above for more details
+Is HDFC Flexi Cap Fund suitable for long-term investment? Yes, it is generally suited for investors with a long-term horizon (5+ years) who want diversified equity exposure.
+
+--------------------------------------------------------------------------------
+chunk_id: 54c57d3cfe747697de6d9a559952d79d0db9ee3a3cf7e0d2f9d1195d74afcee4
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: is_hdfc_flexi_cap_fund_suitable_for_long_term_investment
+heading: Is HDFC Flexi Cap Fund suitable for long-term investment?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC Flexi Cap Fund (Direct Plan) | Is HDFC Flexi Cap Fund suitable for long-term investment?:
+Yes, it is generally suited for investors with a long-term horizon (5+ years) who want diversified equity exposure.
+Who should invest in HDFC Flexi Cap Fund? Investors seeking long-term capital appreciation, diversification across market caps, and professional portfolio management may consider this fund.
+
+--------------------------------------------------------------------------------
+chunk_id: 21a5c338ec27f56508230852907134bc03b9d9ad0d39a6a0d169bb6850a3fd4d
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: who_should_invest_in_hdfc_flexi_cap_fund
+heading: Who should invest in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 16
+
+HDFC Flexi Cap Fund (Direct Plan) | Who should invest in HDFC Flexi Cap Fund?:
+Investors seeking long-term capital appreciation, diversification across market caps, and professional portfolio management may consider this fund.
+Is this fund risky? Since it invests in equities across market caps, the fund carries market risk. However, diversification across large, mid, and small caps aims to manage volatility.
+
+--------------------------------------------------------------------------------
+chunk_id: d3167291e2d92a09b093633161976bd175c3f5b1d303944ff7ddb96eccca0849
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: is_this_fund_risky
+heading: Is this fund risky?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 17
+
+HDFC Flexi Cap Fund (Direct Plan) | Is this fund risky?:
+Since it invests in equities across market caps, the fund carries market risk. However, diversification across large, mid, and small caps aims to manage volatility.
+How is Flexi Cap different from Multi Cap funds? Flexi Cap funds have complete flexibility in allocation across market caps, whereas Multi Cap funds follow SEBI-defined minimum allocation rules for each market segment.
+
+--------------------------------------------------------------------------------
+chunk_id: bb5b3996f8bb5562bb0aee50b506d379b9a1485e723918fb2bcb1bb351100f59
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: how_is_flexi_cap_different_from_multi_cap_funds
+heading: How is Flexi Cap different from Multi Cap funds?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 18
+
+HDFC Flexi Cap Fund (Direct Plan) | How is Flexi Cap different from Multi Cap funds?:
+Flexi Cap funds have complete flexibility in allocation across market caps, whereas Multi Cap funds follow SEBI-defined minimum allocation rules for each market segment.
+Can I invest through SIP in HDFC Flexi Cap Fund? Yes, investors can start a SIP to invest regularly and benefit from rupee cost averaging over time.
+
+--------------------------------------------------------------------------------
+chunk_id: 062c620d4b938eb667bef6d60d1fce8f584beb7885432bdb5792c5eb858d1fe0
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: can_i_invest_through_sip_in_hdfc_flexi_cap_fund
+heading: Can I invest through SIP in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 19
+
+HDFC Flexi Cap Fund (Direct Plan) | Can I invest through SIP in HDFC Flexi Cap Fund?:
+Yes, investors can start a SIP to invest regularly and benefit from rupee cost averaging over time.
+What is the investment strategy of HDFC Flexi Cap Fund? The fund follows a diversified approach focusing on quality businesses, valuation discipline, and long-term growth opportunities across sectors and market caps.
+
+--------------------------------------------------------------------------------
+chunk_id: b7e67fefce6eac8c4233336eb8d7ee4933203089d41a31e7cf0f09cf4ac291ce
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_investment_strategy_of_hdfc_flexi_cap_fund
+heading: What is the investment strategy of HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 20
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the investment strategy of HDFC Flexi Cap Fund?:
+The fund follows a diversified approach focusing on quality businesses, valuation discipline, and long-term growth opportunities across sectors and market caps.
+What makes HDFC Flexi Cap Fund different from large-cap funds? Unlike large-cap funds that mainly invest in large cap companies, this fund can invest across the entire market spectrum, providing wider growth opportunities.
+
+--------------------------------------------------------------------------------
+chunk_id: 861d9183772390762c7d708be4fa302b9e0cbb03134ec13a94b1e7737561de8f
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_makes_hdfc_flexi_cap_fund_different_from_large_cap_funds
+heading: What makes HDFC Flexi Cap Fund different from large-cap funds?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 21
+
+HDFC Flexi Cap Fund (Direct Plan) | What makes HDFC Flexi Cap Fund different from large-cap funds?:
+Unlike large-cap funds that mainly invest in large cap companies, this fund can invest across the entire market spectrum, providing wider growth opportunities.
+What is the minimum SIP amount in HDFC Flexi Cap Fund? The minimum SIP amount for HDFC Flexi Cap Fund is ₹100 (or as specified by the scheme). Investors can start a Systematic Investment Plan with small periodic investments and increase the amount over time based on their financial goals. You can refer website or the scheme information document for the latest investment requirements.
+
+--------------------------------------------------------------------------------
+chunk_id: eb76aa5c38ac6b0b24e47e104dfe95f0897133c3b1fb90ce00a1e6d0c114346a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_minimum_sip_amount_in_hdfc_flexi_cap_fund
+heading: What is the minimum SIP amount in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 22
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the minimum SIP amount in HDFC Flexi Cap Fund?:
+The minimum SIP amount for HDFC Flexi Cap Fund is ₹100 (or as specified by the scheme). Investors can start a Systematic Investment Plan with small periodic investments and increase the amount over time based on their financial goals.
+You can refer website or the scheme information document for the latest investment requirements.
+What benchmark does HDFC Flexi Cap Fund use? HDFC Flexi Cap Fund is benchmarked against NIFTY 500 Total Returns Index (TRI), which represents the performance of a broad range of companies across different market capitalisations.
+
+--------------------------------------------------------------------------------
+chunk_id: 8bc63dda401e52469626393598c36e1cb876537c8a2d260fd45553686ee64489
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_benchmark_does_hdfc_flexi_cap_fund_use
+heading: What benchmark does HDFC Flexi Cap Fund use?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 23
+
+HDFC Flexi Cap Fund (Direct Plan) | What benchmark does HDFC Flexi Cap Fund use?:
+HDFC Flexi Cap Fund is benchmarked against NIFTY 500 Total Returns Index (TRI), which represents the performance of a broad range of companies across different market capitalisations.
+INVEST NOW
+
+--------------------------------------------------------------------------------
+chunk_id: 6e974963ebe4cc01385dbc8ff9d34f230e34652fc47007edefd4384dc17abb7a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_hdfc_flexi_cap_fund
+heading: What is HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 24
+
+HDFC Flexi Cap Fund (Direct Plan) | What is HDFC Flexi Cap Fund?:
+HDFC Flexi Cap Fund is an open-ended equity mutual fund that invests across large-cap, mid-cap, and small-cap stocks, giving the fund manager flexibility to capture opportunities across market segments.
+
+--------------------------------------------------------------------------------
+chunk_id: 1a92e63b9b84c3cabc3b912716f37b8b8203f61e12fda70bb660ae9676546be0
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: how_does_a_flexi_cap_fund_work
+heading: How does a Flexi Cap Fund work?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 25
+
+HDFC Flexi Cap Fund (Direct Plan) | How does a Flexi Cap Fund work?:
+A flexi cap fund dynamically allocates investments across different market capitalizations based on market conditions, valuations, and growth opportunities.
+
+--------------------------------------------------------------------------------
+chunk_id: 3672ccf54043a60500d2c45498f8beab2c5e65e3f12df21d7644a0fd1410342c
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_key_advantage_of_a_flexi_cap_fund
+heading: What is the key advantage of a Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 26
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the key advantage of a Flexi Cap Fund?:
+The main advantage is flexibility — the fund manager can shift allocation between large, mid, and small caps to optimize risk-reward potential. Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: c66f6ea04e621330afb0a7567c76d884aae59b206bbe11b2c81e18f6ba216618
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: is_hdfc_flexi_cap_fund_suitable_for_long_term_investment
+heading: Is HDFC Flexi Cap Fund suitable for long-term investment?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 27
+
+HDFC Flexi Cap Fund (Direct Plan) | Is HDFC Flexi Cap Fund suitable for long-term investment?:
+Yes, it is generally suited for investors with a long-term horizon (5+ years) who want diversified equity exposure.
+
+--------------------------------------------------------------------------------
+chunk_id: 710705df5cf4c5e06cc7889286f016cc66d9d0bc63c69aa4bd877c38703434c7
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: who_should_invest_in_hdfc_flexi_cap_fund
+heading: Who should invest in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 28
+
+HDFC Flexi Cap Fund (Direct Plan) | Who should invest in HDFC Flexi Cap Fund?:
+Investors seeking long-term capital appreciation, diversification across market caps, and professional portfolio management may consider this fund.
+
+--------------------------------------------------------------------------------
+chunk_id: e4067e21b746dad1ebae74a9e53292a88bf492ab1fa9afbc03e2627ecba0d679
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: is_this_fund_risky
+heading: Is this fund risky?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 29
+
+HDFC Flexi Cap Fund (Direct Plan) | Is this fund risky?:
+Since it invests in equities across market caps, the fund carries market risk. However, diversification across large, mid, and small caps aims to manage volatility.
+
+--------------------------------------------------------------------------------
+chunk_id: 53c2be200f656ebeeb338b2556404ec9a90b3d646acf8b778250e455eef30887
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: how_is_flexi_cap_different_from_multi_cap_funds
+heading: How is Flexi Cap different from Multi Cap funds?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 30
+
+HDFC Flexi Cap Fund (Direct Plan) | How is Flexi Cap different from Multi Cap funds?:
+Flexi Cap funds have complete flexibility in allocation across market caps, whereas Multi Cap funds follow SEBI-defined minimum allocation rules for each market segment.
+
+--------------------------------------------------------------------------------
+chunk_id: fb96a131503ab4d535d2e89158daac955fbae396b4a747b118e467fdc08f9efc
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: can_i_invest_through_sip_in_hdfc_flexi_cap_fund
+heading: Can I invest through SIP in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 31
+
+HDFC Flexi Cap Fund (Direct Plan) | Can I invest through SIP in HDFC Flexi Cap Fund?:
+Yes, investors can start a SIP to invest regularly and benefit from rupee cost averaging over time.
+
+--------------------------------------------------------------------------------
+chunk_id: b58dd39bf7dc6c63da010dd3ebf66bf72dc90a9c1eb558e2f064807708ac82ba
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_investment_strategy_of_hdfc_flexi_cap_fund
+heading: What is the investment strategy of HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 32
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the investment strategy of HDFC Flexi Cap Fund?:
+The fund follows a diversified approach focusing on quality businesses, valuation discipline, and long-term growth opportunities across sectors and market caps.
+
+--------------------------------------------------------------------------------
+chunk_id: 820b399bd0fdca7fd830923d7b523375e0f8cd8bcfcf1c2c78e3aa269a3f9a55
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_makes_hdfc_flexi_cap_fund_different_from_large_cap_funds
+heading: What makes HDFC Flexi Cap Fund different from large-cap funds?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 33
+
+HDFC Flexi Cap Fund (Direct Plan) | What makes HDFC Flexi Cap Fund different from large-cap funds?:
+Unlike large-cap funds that mainly invest in large cap companies, this fund can invest across the entire market spectrum, providing wider growth opportunities.
+
+--------------------------------------------------------------------------------
+chunk_id: 5c8fc7a8a52c0afde2a0ffa159b85ee1f1785129bfbe0531fafe2801f648cbb9
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_is_the_minimum_sip_amount_in_hdfc_flexi_cap_fund
+heading: What is the minimum SIP amount in HDFC Flexi Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 34
+
+HDFC Flexi Cap Fund (Direct Plan) | What is the minimum SIP amount in HDFC Flexi Cap Fund?:
+The minimum SIP amount for HDFC Flexi Cap Fund is ₹100 (or as specified by the scheme). Investors can start a Systematic Investment Plan with small periodic investments and increase the amount over time based on their financial goals.You can refer website or the scheme information document for the latest investment requirements.
+
+--------------------------------------------------------------------------------
+chunk_id: 562bec4e9c25681ed52c8f055a9da432df191366730d871dd1f4e38e3dd0f3e2
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+source_title: About HDFC Flexi Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Flexi Cap Fund (Direct Plan)
+scheme_category: flexi_cap
+section: what_benchmark_does_hdfc_flexi_cap_fund_use
+heading: What benchmark does HDFC Flexi Cap Fund use?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 35
+
+HDFC Flexi Cap Fund (Direct Plan) | What benchmark does HDFC Flexi Cap Fund use?:
+HDFC Flexi Cap Fund is benchmarked against NIFTY 500 Total Returns Index (TRI), which represents the performance of a broad range of companies across different market capitalisations.
+
+--------------------------------------------------------------------------------
+chunk_id: a7e7d09fcf6e2e0a35211785d9adf03a8851596adba73fde89da5f5f25318918
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: about_hdfc_large_cap_fund
+heading: About HDFC Large Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC Large Cap Fund (Direct Plan) | About HDFC Large Cap Fund:
+An open ended equity scheme predominantly investing in large cap stocks.
+This is a simple and performing scheme which is eligible for distribution by new cadre of distributors.
+The Scheme aims to provide long-term capital appreciation. It will maintain a minimum exposure of 80% to Large Cap stocks, as defined by SEBI, which currently are the 100 largest companies in India in terms of full market capitalization. Generally, large cap companies are well established businesses that are in operation for a longer period of time and are well positioned to absorb business pressures across various market cycles. Due to their size, they also benefit from economies of scale.
+The Scheme will remain diversified across key sectors and economic variables.
+DIRECT: REGULAR
+
+--------------------------------------------------------------------------------
+chunk_id: 770a1567f4c0a3a5c6b6f70dbf2b82843222ccf74e00d6e33c1cb94a961b9e8d
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: hdfc_large_cap_fund
+heading: HDFC Large Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC Large Cap Fund (Direct Plan) | HDFC Large Cap Fund:
+Equity
+Returns since inception: 13.18%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+1.04
+Lock in
+
+--------------------------------------------------------------------------------
+chunk_id: 1ddde7c6cb054961a7c310ed1f930dd716dbc993473985da4feea6948c8c2d48
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: hdfc_large_cap_fund
+heading: HDFC Large Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC Large Cap Fund (Direct Plan) | HDFC Large Cap Fund:
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+1.04
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 1,151.92
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹39,933.37 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 100 (Total Ret...
+NIFTY 100 (Total Return Index)
+
+--------------------------------------------------------------------------------
+chunk_id: 4ad32425649f51b14ac540a3fc48b968bd80c9735a9794baba2c00fa6e560cb8
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: benchmark_performance
+heading: Benchmark Performance
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC Large Cap Fund (Direct Plan) | Benchmark Performance:
+1Y
+3Y
+5Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+13.18%: 12.59%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+13.18%: 11.97%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+13.18%: 54,307.00
+Scheme Returns (%): Benchmark (Rs.)#
+13.18%: 50,576.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+13.18%: 46,927.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+--------------------------------------------------------------------------------
+chunk_id: 08351c43090e645dbd451ac863ecef5446438ff00626155e701ee0f39ac244a9
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: fund_managers
+heading: Fund Managers
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC Large Cap Fund (Direct Plan) | Fund Managers:
+Mr. Rahul Baijal Senior Member Investment Team (Equity): OVERSEAS Mr. Dhruv Muchhal Equity Analyst and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+--------------------------------------------------------------------------------
+chunk_id: 8bd7b39f7dbffc990bd92013eac226a32a7a20943a79c51cac11c0f8bad0dba8
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: downloads
+heading: Downloads
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC Large Cap Fund (Direct Plan) | Downloads:
+HDFC Large Cap Fund
+Product Labelling
+
+--------------------------------------------------------------------------------
+chunk_id: d3034289b5b87aa56505abc6aece383c9c587eddaa4e3a3a677e72684b442992
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: product_labelling
+heading: Product Labelling
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC Large Cap Fund (Direct Plan) | Product Labelling:
+Benchmark Riskometer
+
+--------------------------------------------------------------------------------
+chunk_id: 0fadabcdda956dca19e09c980b9e0716661b369d0675a3cc93c1a8f71939a1b1
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: product_suitability
+heading: Product Suitability
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC Large Cap Fund (Direct Plan) | Product Suitability:
+This product is suitable for investors who are seeking~ • to generate long-term capital appreciation/income • investment predominantly in Large-Cap companies ~Investors should consult their financial advisers if in doubt about whether the product is suitable for them
+
+--------------------------------------------------------------------------------
+chunk_id: c1a1672eedb5f0b9f10c7d9c3fbf451a0438b339d8bec4aebdb95e98bc3594af
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: faqs
+heading: FAQs
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC Large Cap Fund (Direct Plan) | FAQs:
+Who should consider investing in the HDFC Large Cap Fund? This product is suitable for investors who are seeking~ To generate long-term capital appreciation / income Investment predominantly in Large-cap companies ~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+--------------------------------------------------------------------------------
+chunk_id: 52bdfee5fee0d4bd3158c882ee5255b7fb41f81532c424404818554051778703
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: who_should_consider_investing_in_the_hdfc_large_cap_fund
+heading: Who should consider investing in the HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC Large Cap Fund (Direct Plan) | Who should consider investing in the HDFC Large Cap Fund?:
+This product is suitable for investors who are seeking~
+~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+--------------------------------------------------------------------------------
+chunk_id: 88b08323fba7867311efdbfa014f383e69b1ce4925ba58e156bef07bcfea314a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: who_should_consider_investing_in_the_hdfc_large_cap_fund
+heading: Who should consider investing in the HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC Large Cap Fund (Direct Plan) | Who should consider investing in the HDFC Large Cap Fund?:
+~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+--------------------------------------------------------------------------------
+chunk_id: 3fa712e871db74b3fb883920f98efcfa3f2537301d84ef851424143fcf524e5b
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: who_should_consider_investing_in_the_hdfc_large_cap_fund
+heading: Who should consider investing in the HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC Large Cap Fund (Direct Plan) | Who should consider investing in the HDFC Large Cap Fund?:
+How to Invest in HDFC Large Cap Fund?
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.
+The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC.
+These include: AMC / RTA’s branches i.e.
+Investor Services Centres* HDFC MF website and App/ RTA website for Investors to transact MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) Authorized Points of Service of MF Utilities India Private Limited (MFUI) Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC MF Central * Note: Business Centres i.e.
+Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.
+
+--------------------------------------------------------------------------------
+chunk_id: 3133b49a332d330865432b2efc531144f799b9a9c0a4f7e1978177e1ef29ddbc
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: who_should_consider_investing_in_the_hdfc_large_cap_fund
+heading: Who should consider investing in the HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC Large Cap Fund (Direct Plan) | Who should consider investing in the HDFC Large Cap Fund?:
+Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.
+The above list is indicative.
+For further details, including cut-off timing and applicability of NAV, refer Section II.
+Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 8ea39108f54b236edab69471acad178148264ab3a3a6e5a56b3da0d2a6b9d0c5
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: how_to_invest_in_hdfc_large_cap_fund
+heading: How to Invest in HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC Large Cap Fund (Direct Plan) | How to Invest in HDFC Large Cap Fund?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.
+The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:
+* Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II. Please refer Scheme Documents above for more details
+INVEST NOW
+
+--------------------------------------------------------------------------------
+chunk_id: 6ffe5c31d15dc98e6554e3a62d9f1c7fbb8ee505ae0a8d3ae94c204c81df166e
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: who_should_consider_investing_in_the_hdfc_large_cap_fund
+heading: Who should consider investing in the HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC Large Cap Fund (Direct Plan) | Who should consider investing in the HDFC Large Cap Fund?:
+This product is suitable for investors who are seeking~To generate long-term capital appreciation / incomeInvestment predominantly in Large-cap companies ~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+
+--------------------------------------------------------------------------------
+chunk_id: 6ce7760db52b1987af524a9f427e2dc5d332bbc4eb64c8519808bc5d97c17786
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+source_title: About HDFC Large Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Large Cap Fund (Direct Plan)
+scheme_category: large_cap
+section: how_to_invest_in_hdfc_large_cap_fund
+heading: How to Invest in HDFC Large Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC Large Cap Fund (Direct Plan) | How to Invest in HDFC Large Cap Fund?:
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:AMC / RTA’s branches i.e. Investor Services Centres*HDFC MF website and App/ RTA website for Investors to transactMFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s)Authorized Points of Service of MF Utilities India Private Limited (MFUI)Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMCMF Central * Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II.Please refer Scheme Documents above for more details
+
+--------------------------------------------------------------------------------
+chunk_id: 2dfd36d6620d524add761d0740ac22c0ac4cde088ebfc30b3ebe3cb86d8bfb70
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: about_hdfc_small_cap_fund
+heading: About HDFC Small Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 0
+
+HDFC Small Cap Fund (Direct Plan) | About HDFC Small Cap Fund:
+An open ended equity scheme predominantly investing in small cap stocks
+Today’s Beginners Could Be Tomorrow’s Leaders
+
+--------------------------------------------------------------------------------
+chunk_id: 3db9ae3d52437a9283cad683ed69932f8254406554acda300397b9841df867c4
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_hdfc_small_cap_fund
+heading: What is HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 1
+
+HDFC Small Cap Fund (Direct Plan) | What is HDFC Small Cap Fund?:
+HDFC Small Cap Fund is an open-ended equity mutual fund scheme that predominantly invests in small-cap companies. Small-cap companies typically represent emerging businesses with strong growth potential.
+By investing in a diversified portfolio of small-cap stocks, the fund aims to identify companies with scalable business models and participate in their long-term growth journey.
+Investment Objective is to provide long-term capital appreciation/ income by investing predominantly in small-cap companies. There is no assurance that the investment objective of the scheme will be achieved.
+
+--------------------------------------------------------------------------------
+chunk_id: d78a3aee0ed7de66b52812e4c89d12006a2340c0195926cbad6d5776ed964e2a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: investment_strategy_of_hdfc_small_cap_fund
+heading: Investment Strategy of HDFC Small Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 2
+
+HDFC Small Cap Fund (Direct Plan) | Investment Strategy of HDFC Small Cap Fund:
+HDFC Small Cap Fund focuses on identifying high-quality small-cap companies with long-term growth potential trading at reasonable valuations.
+The portfolio construction emphasizes:
+Bottom-up stock selection based on company fundamentals
+Focus on quality companies, with sound financial strength and reasonable return on equity
+Diversification across sectors and industries
+Invest at sensible valuations in companies trading at reasonable multiples
+
+--------------------------------------------------------------------------------
+chunk_id: 428ae8af4e63b37e98933d099c7e45d2cf1a77d7eb6f3df938bf568a62acec1e
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: why_invest_in_hdfc_small_cap_fund
+heading: Why invest in HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 3
+
+HDFC Small Cap Fund (Direct Plan) | Why invest in HDFC Small Cap Fund?:
+Untapped Universe: With more than 1000 companies beyond the top 250 by market cap, the small-cap space offers a wider scope for alpha generation.
+Under-Researched = Opportunity: Many small-cap stocks are less tracked by analysts, allowing fund managers to identify mispriced winners early.
+Potential Re-rating: As small companies grow, they attract institutional interest and better coverage, often leading to higher valuations.
+Proven Strategy: The fund has a 17+ year track record of spotting scalable, quality small-cap businesses with sound management.
+Smart Diversification: Adds potential for high-growth to your portfolio, complementing large and mid-cap exposure of investors
+
+--------------------------------------------------------------------------------
+chunk_id: b866914346c1d0d93e0e97986ff291e2fcd1521feae2ead6c6f5b29a8fbd5e3c
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: who_can_consider_hdfc_small_cap_fund
+heading: Who can consider HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 4
+
+HDFC Small Cap Fund (Direct Plan) | Who can consider HDFC Small Cap Fund?:
+This fund may suit investors who:
+Seek long-term capital appreciation (5+ years)
+Are comfortable with short-term volatility
+Want exposure to emerging growth businesses
+Aim to diversify across market-cap segments
+
+--------------------------------------------------------------------------------
+chunk_id: a01c1d73de989611b1874cf36aaa7a7b5e0e2aad9a70d8486150a32bc1db7080
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: how_to_start_investing_in_hdfc_small_cap_fund
+heading: How to start investing in HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 5
+
+HDFC Small Cap Fund (Direct Plan) | How to start investing in HDFC Small Cap Fund?:
+Investors can start investing in HDFC Small Cap Fund through the following steps:
+Complete your KYC Keep PAN, Aadhaar and bank details ready.
+Visit HDFC Mutual Fund Website / App Go to the fund page and click Invest Now.
+Choose Investment Mode SIP – invest a fixed amount monthly Lump Sum – invest one time
+Select Plan & Option Direct or Regular Plan Growth or IDCW option
+Enter Amount & Payment Details Set SIP date or make payment online.
+Confirm & Start Investing Your investment will be processed and units will be allotted.
+DIRECT: REGULAR
+
+--------------------------------------------------------------------------------
+chunk_id: ce00c33d1819c1afe8e30188855c10ede8182c2534e2c523e9488e69a0bf1339
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: hdfc_small_cap_fund
+heading: HDFC Small Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 6
+
+HDFC Small Cap Fund (Direct Plan) | HDFC Small Cap Fund:
+Equity
+Returns since inception: 18.44%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.79
+Lock in
+
+--------------------------------------------------------------------------------
+chunk_id: afb751756a4b005eedf949191661f3308fc3a591f744791e77a957decce44b50
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: hdfc_small_cap_fund
+heading: HDFC Small Cap Fund
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 7
+
+HDFC Small Cap Fund (Direct Plan) | HDFC Small Cap Fund:
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.79
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 155.01
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹41,890.86 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+BSE 250 SmallCap Ind...
+BSE 250 SmallCap Index (Total Returns Index)
+
+--------------------------------------------------------------------------------
+chunk_id: 36a3083275c66daed11d50dc6de03103cdcc49c4bf3a3da1cda6c34338265bfb
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: benchmark_performance
+heading: Benchmark Performance
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 8
+
+HDFC Small Cap Fund (Direct Plan) | Benchmark Performance:
+1Y
+3Y
+5Y
+10Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+18.44%: 14.16%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+18.44%: 12.13%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+18.44%: 101,169.00
+Scheme Returns (%): Benchmark (Rs.)#
+18.44%: 61,168.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+18.44%: 47,811.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+--------------------------------------------------------------------------------
+chunk_id: 631873e27427f6166461726ed03c8787922be5fa272979191f13cd3cfe1d0607
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: fund_managers
+heading: Fund Managers
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 9
+
+HDFC Small Cap Fund (Direct Plan) | Fund Managers:
+Mr. Chirag Setalvad Fund Manger- Head of Equities: OVERSEAS Mr. Dhruv Muchhal Equity Analyst and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+--------------------------------------------------------------------------------
+chunk_id: a6a5452d8a5da7e4dad42d208f641267081a3ac9196e9b11933972d6aa0ba96e
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: downloads
+heading: Downloads
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 10
+
+HDFC Small Cap Fund (Direct Plan) | Downloads:
+HDFC Small Cap Fund
+Product Labelling
+
+--------------------------------------------------------------------------------
+chunk_id: f7b5ea4feb998837ba8cbe52083692b43d939b8d6962a7d6f03fc2a623de3942
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: product_labelling
+heading: Product Labelling
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 11
+
+HDFC Small Cap Fund (Direct Plan) | Product Labelling:
+Benchmark Riskometer
+
+--------------------------------------------------------------------------------
+chunk_id: 6a003b582ae51438517cb86d0484595f6f8c9d669ec6dd5aeaf2fa1af7c85ba3
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: product_suitability
+heading: Product Suitability
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 12
+
+HDFC Small Cap Fund (Direct Plan) | Product Suitability:
+This product is suitable for investors who are seeking~
+to generate long-term capital appreciation/income
+investments predominantly in Small-Cap companies
+~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+
+--------------------------------------------------------------------------------
+chunk_id: 0837267de4d31a5b40e5a98590b911037a7afe16a3e136ee170b80d1b8e9d23b
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: faqs
+heading: FAQs
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 13
+
+HDFC Small Cap Fund (Direct Plan) | FAQs:
+What is a small-cap fund? A small-cap fund invests mainly in companies ranked beyond the top 250 by market capitalization.
+
+--------------------------------------------------------------------------------
+chunk_id: 2ea737e24472e72113ea5fc7c0ef17573e51bd4f5580063a367fb6507f7bb644
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_a_small_cap_fund
+heading: What is a small-cap fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 14
+
+HDFC Small Cap Fund (Direct Plan) | What is a small-cap fund?:
+A small-cap fund invests mainly in companies ranked beyond the top 250 by market capitalization.
+Is this fund risky? Small-cap funds tend to be more volatile but may offer higher growth potential over the long term.
+
+--------------------------------------------------------------------------------
+chunk_id: fa1f3ee8ac6f9dccf56ea15b2f77d41a304c75d14e5bb3e107f2940802643484
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: is_this_fund_risky
+heading: Is this fund risky?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 15
+
+HDFC Small Cap Fund (Direct Plan) | Is this fund risky?:
+Small-cap funds tend to be more volatile but may offer higher growth potential over the long term.
+What is the ideal investment horizon? Typically 5 years or more.
+
+--------------------------------------------------------------------------------
+chunk_id: 7c9112412d2cb545692f3583c9c0c66358ed304525a77d5f1b614ac2259e8ec3
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_the_ideal_investment_horizon
+heading: What is the ideal investment horizon?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 16
+
+HDFC Small Cap Fund (Direct Plan) | What is the ideal investment horizon?:
+Typically 5 years or more.
+Can beginners invest? Yes, if they understand equity market volatility and invest for long-term goals.
+
+--------------------------------------------------------------------------------
+chunk_id: 4c35db1a7a58a3303a277f41e0c62d7f0c958b8058371cc00b0446104e81d75d
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: can_beginners_invest
+heading: Can beginners invest?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 17
+
+HDFC Small Cap Fund (Direct Plan) | Can beginners invest?:
+Yes, if they understand equity market volatility and invest for long-term goals.
+SIP or lump sum: which is better? SIP helps average costs and reduce timing risk.
+
+--------------------------------------------------------------------------------
+chunk_id: f28edb56999840d146e580d72fe372c333e9b8eb56b379c23870b0b34b9dde5a
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: sip_or_lump_sum_which_is_better
+heading: SIP or lump sum: which is better?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 18
+
+HDFC Small Cap Fund (Direct Plan) | SIP or lump sum: which is better?:
+SIP helps average costs and reduce timing risk.
+Does the fund only invest in small caps? Primarily yes, but it can allocate a portion to large and mid caps for flexibility.
+
+--------------------------------------------------------------------------------
+chunk_id: 6f75149db58b504bf687fbda8822beb18d707550d4529e07b070e3efd2e3f048
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: does_the_fund_only_invest_in_small_caps
+heading: Does the fund only invest in small caps?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 19
+
+HDFC Small Cap Fund (Direct Plan) | Does the fund only invest in small caps?:
+Primarily yes, but it can allocate a portion to large and mid caps for flexibility.
+Is this suitable for retirement planning? It can form part of a diversified long-term retirement portfolio but is typically not a standalone option.
+
+--------------------------------------------------------------------------------
+chunk_id: 26bc0eba5a6616cd53c6a8f903cf86f6fa5c4153b7505456bfe106acf5078341
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: is_this_suitable_for_retirement_planning
+heading: Is this suitable for retirement planning?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 20
+
+HDFC Small Cap Fund (Direct Plan) | Is this suitable for retirement planning?:
+It can form part of a diversified long-term retirement portfolio but is typically not a standalone option.
+What role does this fund play in a portfolio? It aims to enhance long-term growth potential within a diversified equity portfolio.
+
+--------------------------------------------------------------------------------
+chunk_id: 653baba6d0d90d34e326452197a8bd5984a4292fb03773dbd9afc2cbc5c90352
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_role_does_this_fund_play_in_a_portfolio
+heading: What role does this fund play in a portfolio?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 21
+
+HDFC Small Cap Fund (Direct Plan) | What role does this fund play in a portfolio?:
+It aims to enhance long-term growth potential within a diversified equity portfolio.
+What benchmark does HDFC Small Cap Fund track? HDFC Small Cap Fund is benchmarked against BSE 250 SmallCap Index (TRI)
+
+--------------------------------------------------------------------------------
+chunk_id: 5080a733b89b7cdc5ebc61998657a52b6ed6aa27e061663f26d9a4f7981aa767
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_benchmark_does_hdfc_small_cap_fund_track
+heading: What benchmark does HDFC Small Cap Fund track?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 22
+
+HDFC Small Cap Fund (Direct Plan) | What benchmark does HDFC Small Cap Fund track?:
+HDFC Small Cap Fund is benchmarked against BSE 250 SmallCap Index (TRI)
+What is the minimum investment in HDFC Small Cap Fund? Rs.100/- and any amount thereafter
+
+--------------------------------------------------------------------------------
+chunk_id: 422dc398e469b022ec524a13744e2d5c9ede3b087eb93c5035fa343cf0271ef0
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_the_minimum_investment_in_hdfc_small_cap_fund
+heading: What is the minimum investment in HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 23
+
+HDFC Small Cap Fund (Direct Plan) | What is the minimum investment in HDFC Small Cap Fund?:
+Rs.100/- and any amount thereafter
+How is HDFC Small Cap Fund different from a large-cap fund? A small-cap fund invests primarily in smaller companies, whereas large-cap funds invest mainly in well-established companies with larger market capitalisation. Small-cap funds may offer higher growth potential but can also experience higher volatility.
+
+--------------------------------------------------------------------------------
+chunk_id: 46088e1fd266649d55d5dff0ce08ad221a9cba69aeadc5c0c701001134cf2eac
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: how_is_hdfc_small_cap_fund_different_from_a_large_cap_fund
+heading: How is HDFC Small Cap Fund different from a large-cap fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 24
+
+HDFC Small Cap Fund (Direct Plan) | How is HDFC Small Cap Fund different from a large-cap fund?:
+A small-cap fund invests primarily in smaller companies, whereas large-cap funds invest mainly in well-established companies with larger market capitalisation. Small-cap funds may offer higher growth potential but can also experience higher volatility.
+INVEST NOW
+
+--------------------------------------------------------------------------------
+chunk_id: 463d9729679366e325777249cb33323651b11bd221eb4be1779d6da8dc1ece64
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_a_small_cap_fund
+heading: What is a small-cap fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 25
+
+HDFC Small Cap Fund (Direct Plan) | What is a small-cap fund?:
+A small-cap fund invests mainly in companies ranked beyond the top 250 by market capitalization.
+
+--------------------------------------------------------------------------------
+chunk_id: 667063319fac0b7dec0804032c5bb1dacc0e157edbdde37545297ef4fe557d33
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: is_this_fund_risky
+heading: Is this fund risky?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 26
+
+HDFC Small Cap Fund (Direct Plan) | Is this fund risky?:
+Small-cap funds tend to be more volatile but may offer higher growth potential over the long term.
+
+--------------------------------------------------------------------------------
+chunk_id: 34af48834ec9d7255275075a2e71f0491577c5d9fda0ab7de227bc8fd3ac6a73
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_the_ideal_investment_horizon
+heading: What is the ideal investment horizon?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 27
+
+HDFC Small Cap Fund (Direct Plan) | What is the ideal investment horizon?:
+Typically 5 years or more.
+
+--------------------------------------------------------------------------------
+chunk_id: f6a405e53054fbcfdc4294bae47f5c2b4b410e8b1b42b1bee84b1f3e8dad6708
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: can_beginners_invest
+heading: Can beginners invest?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 28
+
+HDFC Small Cap Fund (Direct Plan) | Can beginners invest?:
+Yes, if they understand equity market volatility and invest for long-term goals.
+
+--------------------------------------------------------------------------------
+chunk_id: ff51166c9ec2b089d1b52a043c64a6e33bf39df7d1b579628d89455d9ed85fcc
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: sip_or_lump_sum_which_is_better
+heading: SIP or lump sum: which is better?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 29
+
+HDFC Small Cap Fund (Direct Plan) | SIP or lump sum: which is better?:
+SIP helps average costs and reduce timing risk.
+
+--------------------------------------------------------------------------------
+chunk_id: 53ccfcf8e03a5ca7c83297f61047a18175215bea2f30e5fdebafd16820ba4083
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: does_the_fund_only_invest_in_small_caps
+heading: Does the fund only invest in small caps?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 30
+
+HDFC Small Cap Fund (Direct Plan) | Does the fund only invest in small caps?:
+Primarily yes, but it can allocate a portion to large and mid caps for flexibility.
+
+--------------------------------------------------------------------------------
+chunk_id: 9afa0e9e91a56d716c15eaa0906672a426298d8d52271ed81d3fa8722b75c5cc
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: is_this_suitable_for_retirement_planning
+heading: Is this suitable for retirement planning?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 31
+
+HDFC Small Cap Fund (Direct Plan) | Is this suitable for retirement planning?:
+It can form part of a diversified long-term retirement portfolio but is typically not a standalone option.
+
+--------------------------------------------------------------------------------
+chunk_id: 5c8aae0d6539261baf0320a935c97f94fe10d5e05a238ae09637f03655824d78
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_role_does_this_fund_play_in_a_portfolio
+heading: What role does this fund play in a portfolio?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 32
+
+HDFC Small Cap Fund (Direct Plan) | What role does this fund play in a portfolio?:
+It aims to enhance long-term growth potential within a diversified equity portfolio.
+
+--------------------------------------------------------------------------------
+chunk_id: 2d319a8ef7f3de129eee838bea7d7d9647acc1b501289c05fd48c5d0906c3dd2
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_benchmark_does_hdfc_small_cap_fund_track
+heading: What benchmark does HDFC Small Cap Fund track?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 33
+
+HDFC Small Cap Fund (Direct Plan) | What benchmark does HDFC Small Cap Fund track?:
+HDFC Small Cap Fund is benchmarked against BSE 250 SmallCap Index (TRI)
+
+--------------------------------------------------------------------------------
+chunk_id: 81c1cd859a0b162a1d9fc9546f47a3b9e3c63d80e26b3c5a89fc0a18502fd20b
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: what_is_the_minimum_investment_in_hdfc_small_cap_fund
+heading: What is the minimum investment in HDFC Small Cap Fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 34
+
+HDFC Small Cap Fund (Direct Plan) | What is the minimum investment in HDFC Small Cap Fund?:
+Rs.100/- and any amount thereafter
+
+--------------------------------------------------------------------------------
+chunk_id: 4f73d29ddb5a72d3db3db8278830f4ae8097ccbb202938409c66acb6f0a5380c
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
+source_title: About HDFC Small Cap Fund
+publisher: HDFC Mutual Fund
+publisher_type: amc
+scheme_name: HDFC Small Cap Fund (Direct Plan)
+scheme_category: small_cap
+section: how_is_hdfc_small_cap_fund_different_from_a_large_cap_fund
+heading: How is HDFC Small Cap Fund different from a large-cap fund?
+doc_type: scheme_page
+fetched_date: 2026-10-02
+chunk_index: 35
+
+HDFC Small Cap Fund (Direct Plan) | How is HDFC Small Cap Fund different from a large-cap fund?:
+A small-cap fund invests primarily in smaller companies, whereas large-cap funds invest mainly in well-established companies with larger market capitalisation. Small-cap funds may offer higher growth potential but can also experience higher volatility.

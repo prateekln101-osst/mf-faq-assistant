@@ -1,0 +1,170 @@
+id: hdfc_capital_gains_guide
+url: https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india
+fetched_date: 2026-10-02
+status: ok
+warning: used saved HTML because the live fetch failed (HTTP 403)
+
+## How to Get a Capital Gain Statement for Mutual Fund schemes in India
+
+Last Updated On: 3 Jul 2026 | Created On: 11 Jul 2025
+5 min read
+
+## Introduction
+
+When filing income tax returns in India, one of the key documents investor needs is the Capital Gain Statement from their mutual fund schemes investments. This statement provides a summary of all realized capital gains and losses during a financial year. It plays a vital role in accurate tax reporting and compliance. This blog explains what a capital gain statement is, how it works, and the step-by-step process to access it.
+
+## What is a Capital Gain Statement?
+
+A Capital Gain Statement is a consolidated report that outlines the gains or losses made from mutual fund scheme specific redemptions during a specific period. It categorizes:
+Short-Term Capital Gains (STCG): Profits from selling mutual fund units within 12 months (for equity funds).
+Long-Term Capital Gains (LTCG): Profits from selling after 12 months (for equity funds), often subject to tax exemptions up to ₹1 lakh annually.
+Applicable taxes, indexation benefits (for debt funds), and transaction details.
+
+## Why is it Important?
+
+Required for income tax return (ITR) filing
+Helps in computing tax liability
+Ensures compliance with Indian tax laws
+Useful for financial planning and record keeping
+
+## How to Get Capital Gain Statement for Mutual Fund schemes
+
+There are multiple ways to obtain your capital gain statement in India:
+
+## 1. From Registrar & Transfer Agents (RTAs)
+
+Visit CAMS ( https://www.camsonline.com ) or KFintech ( https://www.kfintech.com )
+Use your PAN and email ID registered with your investments
+Request a consolidated capital gains report (choose financial year, email delivery) When this email arrives, taxpayers have to enter the password to view their capital gains statement.
+
+## 2. From Mutual Fund Distributor Platforms
+
+Log in to investment platforms
+Navigate to the tax or reports section
+Download the capital gain statement for the required financial year
+
+## 3. From AMC (Asset Management Company) Websites
+
+Visit the website of each fund house you've invested in
+Use the PAN/email to generate your individual capital gain statement
+Some AMCs also allow consolidated download across their schemes
+
+## 4. Via CAS (Consolidated Account Statement)
+
+CAS includes capital gains across all mutual fund scheme holdings linked to your PAN
+Request via CAMS or NSDL ( https://www.nsdlsra.com )
+Choose the "capital gains" format when generating CAS
+
+## Points to Remember
+
+Ensure your email and PAN are correctly registered with all AMCs
+Capital gain statements are generally available after financial year-end (March)
+You can generate them for specific time frames (e.g., FY 2023-24)
+Statements free of cost from most platforms and RTAs
+
+## Conclusion
+
+Accessing your mutual fund schemes capital gain statement is a simple yet crucial step for tax filing and financial clarity. Whether through RTAs like CAMS/KFintech, online investment platforms, or AMC websites, investors can easily track their gains and meet tax obligations accurately.
+Additional links:
+What is a Mutual Fund? - Beginner's Guide to Investing
+AMFI - Introduction to Mutual Funds
+Know everything about SIP
+How to Get Capital Gain Statement for Mutual Funds?
+Let’s Learn How to Invest in Securities Market
+
+## What is a capital gain statement in mutual fund schemes?
+
+A capital gain statement provides a detailed report of the profits or losses you have made from redeeming mutual fund units. It includes both short-term and long-term gains, transaction dates, and applicable tax rates.
+
+## Why do I need a capital gain statement?
+
+It is essential for calculating your tax liability on investment in mutual fund schemes and must be used while filing your income tax return in India.
+
+## How can I get a capital gain statement online?
+
+You can visit websites of CAMS, KFintech, or other mutual fund investment platform to download the statement using your PAN and registered email ID.
+
+## Is there any charge to get the capital gain statement?
+
+No, most RTAs and platforms offer the capital gain statement free of cost.
+
+## Can I get a consolidated statement for all my mutual fund schemes?
+
+Yes, platforms like CAMS and KFintech allow you to generate a consolidated capital gain statement for all investment in mutual fund schemes linked to your PAN.
+
+## What period does the capital gain statement cover?
+
+You can generate it for any selected time frame, usually for a full financial year (April–March).
+
+## Does the statement include unrealized gains?
+
+No, it only includes realized gains—i.e., gains from mutual fund units that have been redeemed during the selected period.
+
+## What if I invested through multiple platforms?
+
+You can still get a consolidated statement from CAMS or NSDL that includes all mutual fund schemes transactions associated with your PAN.
+
+## Can I use CAS for tax filing purposes?
+
+Yes, CAS in capital gains format is accepted for tax filing. It provides a unified view of all mutual fund schemes redemptions and gains.
+
+## When should I download the capital gain statement?
+
+Ideally, after the end of the financial year (post-March), so you can use it during the ITR filing period (typically April–July).
+BACK TO TOP
+
+## Did you find this interesting?
+
+Your opinion matters - share your thoughts and help us improve.
+Yes: No
+
+## Stay ahead with our insights
+
+Recommended Posts
+Investing in Capital Protection Oriented Schemes
+How to Reduce Long Term Capital Gains Tax
+Long Term Capital Gain on Mutual Funds
+An Investor Education And Awareness Initiative
+Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https://scores.sebi.gov.in/scores-home/ . SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login .
+The information is for general purposes only and not an investment advice. Readers should seek professional advice before taking any investment related decisions.
+MUTUAL FUND INVESTMENTS ARE SUBJECT TO MARKET RISKS, READ ALL SCHEME RELATED DOCUMENTS CAREFULLY
+
+## What is a capital gain statement in mutual fund schemes?
+
+A capital gain statement provides a detailed report of the profits or losses you have made from redeeming mutual fund units. It includes both short-term and long-term gains, transaction dates, and applicable tax rates.
+
+## Why do I need a capital gain statement?
+
+It is essential for calculating your tax liability on investment in mutual fund schemes and must be used while filing your income tax return in India.
+
+## How can I get a capital gain statement online?
+
+You can visit websites of CAMS, KFintech, or other mutual fund investment platform to download the statement using your PAN and registered email ID.
+
+## Is there any charge to get the capital gain statement?
+
+No, most RTAs and platforms offer the capital gain statement free of cost.
+
+## Can I get a consolidated statement for all my mutual fund schemes?
+
+Yes, platforms like CAMS and KFintech allow you to generate a consolidated capital gain statement for all investment in mutual fund schemes linked to your PAN.
+
+## What period does the capital gain statement cover?
+
+You can generate it for any selected time frame, usually for a full financial year (April–March).
+
+## Does the statement include unrealized gains?
+
+No, it only includes realized gains—i.e., gains from mutual fund units that have been redeemed during the selected period.
+
+## What if I invested through multiple platforms?
+
+You can still get a consolidated statement from CAMS or NSDL that includes all mutual fund schemes transactions associated with your PAN.
+
+## Can I use CAS for tax filing purposes?
+
+Yes, CAS in capital gains format is accepted for tax filing. It provides a unified view of all mutual fund schemes redemptions and gains.
+
+## When should I download the capital gain statement?
+
+Ideally, after the end of the financial year (post-March), so you can use it during the ITR filing period (typically April–July).

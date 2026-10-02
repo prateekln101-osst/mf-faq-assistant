@@ -1,0 +1,124 @@
+id: hdfc_balanced_advantage
+url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct
+fetched_date: 2026-10-02
+status: ok
+warning: used saved HTML because the live fetch failed (HTTP 403)
+
+## About HDFC Balanced Advantage Fund
+
+An open ended Balanced Advantage Fund.
+This Fund aims to provide long term capital appreciation/income from a mix of equity and debt investments.
+Different asset classes exhibit different risk-return profile and relatively low correlation to each other as compared to investments within the same asset class. The fund manager will determine asset allocation between equity and debt depending on prevailing market and economic conditions.
+The debt-equity mix at any point of time will be a function of interest rates, equity valuations, medium to long term outlook of the asset classes and risk management, etc.
+DIRECT: REGULAR
+
+## HDFC Balanced Advantage Fund
+
+Hybrid
+Returns since inception: 14.57%
+Inception Date: 01/01/2013
+Riskometer: Very High
+Min SIP: ₹ 100
+Ideal for Wealth Creation: 3 Years and above
+Entry Load
+An entry load is a fee charged to investors when they purchase units of a Mutual Fund scheme. This fee was used to cover distribution and marketing expenses incurred by the Asset Management Company (AMC). Currently, Mutual Funds in India do not levy entry loads.
+NA
+TER
+TER
+The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme’s average Net Asset Value (NAV). The daily NAV of a Mutual Fund is disclosed after deducting these expenses.
+Disclaimer
+Including Additional Expenses and Goods and Service Tax on Management Fees, if any. Click here to view the Total Expense Ratio
+0.78
+Lock in
+A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
+NA
+NAV (01/10/2026)
+₹ 546.11
+Growth Option
+AUM
+Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
+₹107,295.79 Cr.
+Benchmark
+A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
+NIFTY 50 Hybrid Comp...
+NIFTY 50 Hybrid Composite Debt 50:50 Index
+
+## Benchmark Performance
+
+1Y
+3Y
+5Y
+Since Inception
+Scheme Returns (%): Benchmark Returns (%)#
+14.57%: 10.08%
+Scheme Returns (%): Additional Benchmark Returns (%)##
+14.57%: 12.13%
+Scheme Returns (%): Value of Investment of Rs 10,000
+Scheme Returns (%): Scheme Returns (Rs.)
+14.57%: 64,208.00
+Scheme Returns (%): Benchmark (Rs.)#
+14.57%: 37,161.00
+Scheme Returns (%): Additional Benchmark (Rs.)##
+14.57%: 47,811.00
+^Past performance may or may not be sustained in future and ... Read More
+Click here to view performance of other schemes managed by the Fund Manager(s)
+
+## Mr. Ihab Dalwai
+
+Senior Fund Manager - Equities
+
+## Mr. Anil Bamboli
+
+Head – Fixed Income
+OVERSEAS: Senior Fund Manager - Equities and Fund Manager for Overseas Investments
+Graph Table: Portfolio Allocation & Top Holdings As on 31 Aug 2026
+
+## Downloads
+
+HDFC Balanced Advantage Fund
+Product Labelling
+
+## Product Labelling
+
+Benchmark Riskometer
+
+## Product Suitability
+
+This product is suitable for investors who are seeking~
+to generate long-term capital appreciation/income
+investments in a mix of equity and debt instruments
+~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+
+## FAQs
+
+Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ? Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+## Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?
+
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+How to Invest in HDFC Balanced Advantage Fund? Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include: AMC / RTA’s branches i.e. Investor Services Centres* HDFC MF website and App/ RTA website for Investors to transact MFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s) Authorized Points of Service of MF Utilities India Private Limited (MFUI) Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC MF Central *Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer Scheme Documents above for more details
+
+## How to Invest in HDFC Balanced Advantage Fund?
+
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance. The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:
+*Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions. Please refer Scheme Documents above for more details
+How to Redeem HDFC Balanced Advantage Fund? Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable. Transactions through online facilities / electronic modes: The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+
+## How to Redeem HDFC Balanced Advantage Fund?
+
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices. For Redemption (including switch-out) applications • In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable. • In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.
+Transactions through online facilities / electronic modes:
+The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA. The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+INVEST NOW
+
+## Can I invest in SIP and Lump Sum of HDFC Balanced Advantage Fund ?
+
+Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+
+## How to Invest in HDFC Balanced Advantage Fund?
+
+Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:AMC / RTA’s branches i.e. Investor Services Centres*HDFC MF website and App/ RTA website for Investors to transactMFSS/BSE StAR MF/NMF II platforms of the Stock Exchanges(s)Authorized Points of Service of MF Utilities India Private Limited (MFUI)Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMCMF Central *Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.Please refer Scheme Documents above for more details
+
+## How to Redeem HDFC Balanced Advantage Fund?
+
+Units of the scheme can be redeemed/switched out on any Business day at NAV based prices.For Redemption (including switch-out) applications• In respect of valid applications received upto 3 p.m. on a Business Day by the Fund, same day's closing NAV shall be applicable.• In respect of valid applications received after 3 p.m. on a Business Day by the Fund, the closing NAV of the next Business Day shall be applicable.Transactions through online facilities / electronic modes:The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA.The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.

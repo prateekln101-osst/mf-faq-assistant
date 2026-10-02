@@ -1,0 +1,7 @@
+id,url,publisher,publisher_type,scheme_name,scheme_category,doc_type
+hdfc_large_cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct,HDFC Mutual Fund,amc,HDFC Large Cap Fund (Direct Plan),large_cap,scheme_page
+hdfc_flexi_cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct,HDFC Mutual Fund,amc,HDFC Flexi Cap Fund (Direct Plan),flexi_cap,scheme_page
+hdfc_elss,https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct,HDFC Mutual Fund,amc,HDFC ELSS Tax Saver Fund (Direct Plan),elss,scheme_page
+hdfc_small_cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct,HDFC Mutual Fund,amc,HDFC Small Cap Fund (Direct Plan),small_cap,scheme_page
+hdfc_balanced_advantage,https://www.hdfcfund.com/explore/mutual-funds/hdfc-balanced-advantage-fund/direct,HDFC Mutual Fund,amc,HDFC Balanced Advantage Fund (Direct Plan),balanced_advantage,scheme_page
+hdfc_capital_gains_guide,https://www.hdfcfund.com/learn/blog/how-get-capital-gain-statement-mutual-fund-schemes-india,HDFC Mutual Fund,amc,HDFC Mutual Fund,,guide
